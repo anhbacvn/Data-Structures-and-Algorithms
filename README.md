@@ -43,7 +43,7 @@
 Để có thể chạy được các file của repo, trước tiên bạn cần clone repo về máy tính:
 
 ```
-git clone https://github.com/QuyAnh2005/Data-Structures-and-Algorithms.git
+git clone https://github.com/anhbacvn/Data-Structures-and-Algorithms.git
 ```
 
 Để bạn đọc dễ dàng theo dõi nội dung thì khi upload lên github, mình đã thay đổi tên các package cho phù hợp. Vì thế, sau khi clone về, bạn cần đổi lại tên folder cho giống với tên package chứa trong file tương ứng của folder đó bằng cách xóa hết dấu cách, số và kí tự '-' có trong tên. Dưới đây là ví dụ:
@@ -56,6 +56,3 @@ git clone https://github.com/QuyAnh2005/Data-Structures-and-Algorithms.git
 
 Với các folder còn lại, cũng thay đổi tương tự. Sau khi các folder đã được đổi tên thì bạn mở trình biên dịch java, import các folder vừa xong như package và chạy chương trình. 
 
-
-## Tài liệu tham khảo 
-[Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser - Data Structures and Algorithms in Java-Wiley (2014)](https://drive.google.com/file/d/17qu4uiB6gb-fX6GE2X_rlkikSBnhZIwp/view?usp=sharing)
